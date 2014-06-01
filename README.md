@@ -1,4 +1,4 @@
-# joola.io.datastore-mongodb [![Build Status][3]][4] [![Gitter chat](https://badges.gitter.im/joola/joola.io.png)](https://gitter.im/joola/joola.io)
+# joola.io MongoDB Store [![Build Status][3]][4] [![Gitter chat](https://badges.gitter.im/joola/joola.io.png)](https://gitter.im/joola/joola.io)
 
 | **[Technical Docs] [techdocs]**     | **[Setup Guide] [setup]**     | **[joola.io Docs] [api-docs]**           | **[Contributing] [contributing]**           | **[About joola.io] [about]**     |
 |-------------------------------------|-------------------------------|-----------------------------------|---------------------------------------------|-------------------------------------|
