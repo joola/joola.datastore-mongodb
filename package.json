@@ -1,16 +1,16 @@
 {
-  "name": "joola.io.datastore-mongodb",
+  "name": "joola.datastore-mongodb",
   "preferGlobal": false,
-  "version": "0.0.5",
+  "version": "0.0.6",
   "author": "Joola <info@joo.la>",
-  "description": "joola.io MongoDB Datastore",
+  "description": "joola MongoDB Datastore",
   "engine": "node >= 0.10.x",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "http://github.com/joola/joola.io.datastore-mongodb.git"
+    "url": "http://github.com/joola/joola.datastore-mongodb.git"
   },
-  "bugs": "http://github.com/joola/joola.io.datastore-mongodb/issues",
+  "bugs": "http://github.com/joola/joola.datastore-mongodb/issues",
   "contributors": [
     {
       "name": "Itay Weinberger",
@@ -29,6 +29,7 @@
   ],
   "dependencies": {
     "async": "~0.9.0",
+    "cloneextend": "0.0.3",
     "mongodb": "^1.4.5",
     "traverse": "^0.6.6",
     "underscore": "~1.6.0"
