@@ -29,7 +29,7 @@ If you're feeling lost or unsure, [just let us know](#Contact).
 Contacting us is easy, ping us on one of these:
 
 - [![Gitter chat](https://badges.gitter.im/joola/joola.png)](https://gitter.im/joola/joola)
-- [@joolaio][19]
+- [@joola][19]
 - [info@joo.la][20]
 - You can even fill out a [form][21].
 
@@ -45,7 +45,7 @@ Copyright (c) 2012-2014 Joola Smart Solutions. GPLv3 Licensed, see [LICENSE][24]
 [15]: http://nodejs.org
 [16]: http://serverfault.com/
 [18]: https://github.com/joola/joola/blob/master/CONTRIBUTING.md
-[19]: http://twitter.com/joolaio
+[19]: http://twitter.com/getjoola
 [20]: mailto://info@joo.la
 [21]: http://joo.la/#contact
 [22]: http://joola/
@@ -63,5 +63,5 @@ Copyright (c) 2012-2014 Joola Smart Solutions. GPLv3 Licensed, see [LICENSE][24]
 [about]: https://github.com/joola/joola/wiki/joola-overview
 [techdocs]: https://github.com/joola/joola/wiki/Technical-documentation
 [setup]: https://github.com/joola/joola/wiki/Setting-up-joola
-[api-docs]: http://docs.joolaio.apiary.io/
+[api-docs]: http://docs.joola.apiary.io/
 [contributing]: https://github.com/joola/joola/wiki/Contributing
