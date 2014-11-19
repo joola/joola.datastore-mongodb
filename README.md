@@ -4,7 +4,7 @@
 |-------------------------------------|-------------------------------|-----------------------------------|---------------------------------------------|-------------------------------------|
 | [![i1] [techdocs-image]] [techdocs] | [![i2] [setup-image]] [setup] | [![i3] [api-docs-image]] [api-docs] | [![i4] [contributing-image]] [contributing] | [![i5] [about-image]] [about] |
 
-<img src="http://i.imgur.com/Kx6l8s3.png" alt="joola logo" title="joola" align="right" />
+<img src="https://joo.la/img/logo-profile.png" alt="joola logo" title="joola" align="right" />
 
 [joola][22] is a real-time data analytics and visualization framework.
 **joola.datastore-mongodb** is a joola plugin to provide MongoDB based data store for its operation.
