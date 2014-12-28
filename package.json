@@ -33,5 +33,8 @@
     "traverse": "^0.6.6",
     "underscore": "~1.6.0"
   },
+  "devDependencies":{
+    "csvtojson": "^0.3.17"
+  }
   "license": "MIT"
 }
