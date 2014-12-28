@@ -35,6 +35,6 @@
   },
   "devDependencies":{
     "csvtojson": "^0.3.17"
-  }
+  },
   "license": "MIT"
 }
