@@ -1,7 +1,7 @@
 {
   "name": "joola.datastore-mongodb",
   "preferGlobal": false,
-  "version": "0.0.13",
+  "version": "0.0.14",
   "author": "Joola <info@joo.la>",
   "description": "joola MongoDB Datastore",
   "private": false,
