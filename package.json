@@ -5,6 +5,10 @@
   "author": "Joola <info@joo.la>",
   "description": "joola MongoDB Datastore",
   "private": false,
+  "scripts":{
+    "prepublish":"npm shrinkwrap",
+    "postpublish": "rm npm-shrinkwrap.json"
+  },
   "repository": {
     "type": "git",
     "url": "http://github.com/joola/joola.datastore-mongodb.git"
