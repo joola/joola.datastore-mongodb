@@ -1,19 +1,34 @@
-# joola MongoDB Store [![Build Status][3]][4] [![Gitter chat](https://badges.gitter.im/joola/joola.png)](https://gitter.im/joola)
+![Joola](http://i.imgur.com/PrqIYX7.png)
 
-| **[Technical Docs] [techdocs]**     | **[Setup Guide] [setup]**     | **[joola Docs] [api-docs]**           | **[Contributing] [contributing]**           | **[About joola] [about]**     |
-|-------------------------------------|-------------------------------|-----------------------------------|---------------------------------------------|-------------------------------------|
-| [![i1] [techdocs-image]] [techdocs] | [![i2] [setup-image]] [setup] | [![i3] [api-docs-image]] [api-docs] | [![i4] [contributing-image]] [contributing] | [![i5] [about-image]] [about] |
+[Joola][22] is a data analytics and visualization middleware designed to help you quickly build custom, embedded data analytics applications.
 
-<img src="https://joo.la/img/logo-profile.png" alt="joola logo" title="joola" align="right" />
+[![Build Status][3]][4] [![Gitter chat](https://badges.gitter.im/joola/joola.png)](https://gitter.im/joola)
 
-[joola][22] is a real-time data analytics and visualization framework.
 **joola.datastore-mongodb** is a joola plugin to provide MongoDB based data store for its operation.
 
 ### Setup Guide
 
+In order to setup and use MongoDB as joola's Datastore, following these steps:
 
-### Technical Docs
+```bash
+$ npm install joola.datastore-mongodb
+```
 
+Then open your joola configuration and add something along these lines:
+```javascript
+{
+  "store": {
+    "datastore": {
+      "mongodb": {
+        "enabled": true,
+        "dsn": "mongodb://localhost:27017/joola"
+      }
+    }
+  }
+}
+```
+
+You're all set to go. to make sure it works, please run a node and monitor the log to see what provider is used.
 
 
 ### Contributing
@@ -34,7 +49,7 @@ Contacting us is easy, ping us on one of these:
 - You can even fill out a [form][21].
 
 ### License
-Copyright (c) 2012-2014 Joola Smart Solutions. GPLv3 Licensed, see [LICENSE][24] for details.
+Copyright (c) 2012-2015 Joola Smart Solutions. GPLv3 Licensed, see [LICENSE][24] for details.
 
 
 [1]: https://coveralls.io/repos/joola/joola.datastore-mongodb/badge.png?branch=develop
